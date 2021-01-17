@@ -3,7 +3,7 @@
 original analysis done near 12/20 - 12/30 of 2020
 
 ### Project Title
-Udacity Git Project
+Udacity Git Project on Bikeshare Data
 
 ### Description
 Analyzing the bikeshare data from Chicago, New York City, and Washington to better understand customer trends
