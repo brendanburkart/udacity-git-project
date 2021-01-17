@@ -1,5 +1,6 @@
 ### Date created
-1/17/2021
+1/17/2021 - created this repository
+original analysis done near 12/20 - 12/30 of 2020
 
 ### Project Title
 Udacity Git Project
