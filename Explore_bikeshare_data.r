@@ -292,7 +292,7 @@ ggplot(data = subset(df[df$minutes < 60, ])
                    , color = 'black'
                    , fill = 'lightblue' 
                   ) +
-    ggtitle('Distribution of Rental Duration by If Bike was Returned to Starting Point') + 
+    ggtitle('Distribution of Rental Duration by Whether Bike was Returned to Starting Point') + 
     xlab('Minutes of Rental') + 
     ylab('# of Rentals') + 
     facet_wrap(~location_match, scales = 'free_y')
