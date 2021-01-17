@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+1/17/2021
 
 ### Project Title
-Replace the Project Title
+Udacity Git Project
 
 ### Description
-Describe what your project is about and what it does
+Analyzing the bikeshare data from Chicago, New York City, and Washington to better understand customer trends
 
 ### Files used
-Include the files used
+bikeshare.r
+- ignoring CSV files with actual data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+this repo based on https://github.com/udacity/pdsnd_github
+code and project data from https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118
