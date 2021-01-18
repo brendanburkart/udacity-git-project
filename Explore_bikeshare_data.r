@@ -290,10 +290,10 @@ ggplot(data = subset(df[df$minutes < 60, ])
       ) + 
     geom_histogram(binwidth = 2
                    , color = 'black'
-                   , fill = 'lightblue' 
+                   , fill = 'darkblue' 
                   ) +
-    ggtitle('Distribution of Rental Duration by If Bike was Returned to Starting Point') + 
-    xlab('Minutes of Rental') + 
+    ggtitle('Distribution of Rental Duration by Whether Bike was Returned to Starting Point') + 
+    xlab('Duration of Rental (minutes)') + 
     ylab('# of Rentals') + 
     facet_wrap(~location_match, scales = 'free_y')
 
